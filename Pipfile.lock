@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "25796a32dbf090445b7958981cd461fcfb5a9963576696601feebec8dc0f42c8"
+            "sha256": "50b8935d42537b1d392d8fe9a921302d58566b8b364c66af879714c0220b4483"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -44,11 +44,6 @@
             ],
             "index": "pypi",
             "version": "==2.19.1"
-        },
-        "urlbuilder": {
-            "editable": true,
-            "git": "https://github.com/dexpota/urlbuilder.git",
-            "ref": "843d1c6f739ad649195ff16f24f70444e7f58f1d"
         },
         "urllib3": {
             "hashes": [
